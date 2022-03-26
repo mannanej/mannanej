@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eddie Mannan!
-- 👀 I’m interested in code written in either Java or PowerShell! They are my favorites!!!
-- 🌱 I’m currently learning different Java data structures.
+- 👀 I’m interested in code written in either Java, PowerShell or C++! They are my favorites!!!
+- 🌱 I’m currently learning different Java data structures and Linux systems.
 - 💞️ I’m looking to collaborate on, well, anything really! I'm alwayd down for a new coding challenge!
 - 📫 How to reach me: eddiemannan@gmail.com
 
@@ -16,4 +16,6 @@ My current languages include:
 - Maple
 - PowerShell
 - CMD
-- Small amount of Linux
+- Small amount of Linux commands
+- Small amount of JavaScript
+- Small amount of HTML
