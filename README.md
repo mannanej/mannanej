@@ -11,11 +11,12 @@ My current languages include:
 - Java
 - Python
 - C++
+- C
 - Arduino
 - MatLab
 - Maple
 - PowerShell
 - CMD
-- Small amount of Linux commands
+- Ubuntu Based Linux commands
 - Small amount of JavaScript
 - Small amount of HTML
