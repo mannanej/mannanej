@@ -18,5 +18,6 @@ My current languages include:
 - PowerShell
 - CMD
 - Ubuntu Based Linux commands
-- Small amount of JavaScript
+- JavaScript
 - Small amount of HTML
+- Small amount of CSS
